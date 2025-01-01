@@ -5,6 +5,7 @@ A Chrome extension that allows you to quickly convert HTML tables to CSV or JSON
 ## Features
 
 - Right-click context menu integration
+- ![image](https://github.com/user-attachments/assets/108e5da4-d0cb-49a2-a616-1efe69dbbe2e)
 - Convert any HTML table to CSV format
 - Convert any HTML table to JSON format with column headers as keys
 - Automatic copy to clipboard
